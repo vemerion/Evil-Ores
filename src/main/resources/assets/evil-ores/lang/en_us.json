@@ -1,0 +1,10 @@
+{
+  "entity.evil-ores.evil_iron_entity": "Evil Iron",
+  "entity.evil-ores.evil_gold_entity": "Evil Gold",
+  "entity.evil-ores.diamond_arrow_entity": "Diamond Projectile",
+  "entity.evil-ores.evil_diamond_entity": "Evil Diamond",
+  "entity.evil-ores.evil_lapis_entity": "Evil Lapis Lazuli",
+  "entity.evil-ores.evil_coal_entity": "Evil Coal",
+  "entity.evil-ores.evil_emerald_entity": "Evil Emerald",
+  "entity.evil-ores.evil_redstone_entity": "Evil Redstone"
+}

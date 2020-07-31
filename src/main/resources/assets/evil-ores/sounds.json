@@ -1,0 +1,47 @@
+{
+  "evil_iron_move_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "evil-ores:evil_iron_move_sound",
+        "stream": false
+      }
+    ]
+  },
+  "shoot_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "evil-ores:shoot_sound",
+        "stream": false
+      }
+    ]
+  },
+  "spin_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "evil-ores:spin_sound",
+        "stream": false
+      }
+    ]
+  },
+  "evil_coal_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "evil-ores:evil_coal_sound",
+        "stream": false
+      }
+    ]
+  },
+  "evil_quartz_shoot_sound": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "evil-ores:evil_quartz_shoot_sound",
+        "stream": false
+      }
+    ]
+  }
+}
